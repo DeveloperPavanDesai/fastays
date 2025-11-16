@@ -77,7 +77,6 @@ export const BookingForm: React.FC<BookingFormProps> = ({ flight }) => {
 
   return (
     <View style={styles.container} testID="booking-form">
-      {/* Flight Summary */}
       <View style={styles.flightSummary}>
         <View style={styles.flightHeader}>
           <Ionicons name="airplane" size={20} color={theme.colors.primary} />
