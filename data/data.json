@@ -1,0 +1,136 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Air India",
+      "flightNumber": "AI-101",
+      "departure": {
+        "airport": "DEL",
+        "city": "New Delhi",
+        "time": "08:00",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "BOM",
+        "city": "Mumbai",
+        "time": "10:30",
+        "date": "2024-12-20"
+      },
+      "duration": "2h 30m",
+      "price": 4500,
+      "currency": "INR",
+      "stops": 0,
+      "class": "Economy"
+    },
+    {
+      "id": "2",
+      "airline": "IndiGo",
+      "flightNumber": "6E-234",
+      "departure": {
+        "airport": "BOM",
+        "city": "Mumbai",
+        "time": "14:15",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "BLR",
+        "city": "Bangalore",
+        "time": "16:00",
+        "date": "2024-12-20"
+      },
+      "duration": "1h 45m",
+      "price": 3200,
+      "currency": "INR",
+      "stops": 0,
+      "class": "Economy"
+    },
+    {
+      "id": "3",
+      "airline": "SpiceJet",
+      "flightNumber": "SG-456",
+      "departure": {
+        "airport": "DEL",
+        "city": "New Delhi",
+        "time": "11:30",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "CCU",
+        "city": "Kolkata",
+        "time": "14:00",
+        "date": "2024-12-20"
+      },
+      "duration": "2h 30m",
+      "price": 3800,
+      "currency": "INR",
+      "stops": 0,
+      "class": "Economy"
+    },
+    {
+      "id": "4",
+      "airline": "Vistara",
+      "flightNumber": "UK-789",
+      "departure": {
+        "airport": "BLR",
+        "city": "Bangalore",
+        "time": "09:00",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "HYD",
+        "city": "Hyderabad",
+        "time": "10:15",
+        "date": "2024-12-20"
+      },
+      "duration": "1h 15m",
+      "price": 2800,
+      "currency": "INR",
+      "stops": 0,
+      "class": "Economy"
+    },
+    {
+      "id": "5",
+      "airline": "GoAir",
+      "flightNumber": "G8-321",
+      "departure": {
+        "airport": "MAA",
+        "city": "Chennai",
+        "time": "16:45",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "COK",
+        "city": "Kochi",
+        "time": "18:30",
+        "date": "2024-12-20"
+      },
+      "duration": "1h 45m",
+      "price": 3500,
+      "currency": "INR",
+      "stops": 0,
+      "class": "Economy"
+    },
+    {
+      "id": "6",
+      "airline": "AirAsia",
+      "flightNumber": "I5-567",
+      "departure": {
+        "airport": "DEL",
+        "city": "New Delhi",
+        "time": "13:20",
+        "date": "2024-12-20"
+      },
+      "arrival": {
+        "airport": "GOI",
+        "city": "Goa",
+        "time": "16:10",
+        "date": "2024-12-20"
+      },
+      "duration": "2h 50m",
+      "price": 5200,
+      "currency": "INR",
+      "stops": 1,
+      "class": "Economy"
+    }
+  ]
+}
